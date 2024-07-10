@@ -1,0 +1,9 @@
+x=10 #it will be 10
+x2=int(x) #it wii be 10
+x3=int(10.5) #it will be 10
+x4=int("20") #it will be 20
+x5=float(30)
+x6=float("45")
+x7=float(1.5)
+x8=complex(67)
+x9=complex(17.9)
